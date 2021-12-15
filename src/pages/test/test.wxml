@@ -1,0 +1,4 @@
+<div>
+    <input v-model="value"/>
+    <div class="red">hello world</div>
+</div>

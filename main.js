@@ -1,3 +1,7 @@
-import testPage from './src/pages/test/test.js'
+import Vue from 'vue'
+import Test from './src/pages/test/test.js'
 
-document.write('hello world')
+new Vue({
+    el: '#app',
+    render: h => h(Test)
+})

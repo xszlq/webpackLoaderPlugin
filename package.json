@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/xszlq/webpackLoaderPlugin#readme",
   "dependencies": {
+    "vue": "^2.6.14",
+    "vue-loader": "^15.9.8",
     "webpack": "^5.65.0"
   },
   "devDependencies": {
